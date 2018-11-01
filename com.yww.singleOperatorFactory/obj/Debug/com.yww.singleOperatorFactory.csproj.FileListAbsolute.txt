@@ -7,3 +7,12 @@ C:\Users\19335\Desktop\CaculatorForFactory\com.yww.singleOperatorFactory\obj\Deb
 C:\Users\19335\Desktop\CaculatorForFactory\com.yww.singleOperatorFactory\obj\Debug\com.yww.singleOperatorFactory.csproj.CopyComplete
 C:\Users\19335\Desktop\CaculatorForFactory\com.yww.singleOperatorFactory\obj\Debug\com.yww.singleOperatorFactory.dll
 C:\Users\19335\Desktop\CaculatorForFactory\com.yww.singleOperatorFactory\obj\Debug\com.yww.singleOperatorFactory.pdb
+F:\Project_git\CaculatorForFactory\com.yww.singleOperatorFactory\bin\Debug\com.yww.singleOperatorFactory.dll
+F:\Project_git\CaculatorForFactory\com.yww.singleOperatorFactory\bin\Debug\com.yww.singleOperatorFactory.pdb
+F:\Project_git\CaculatorForFactory\com.yww.singleOperatorFactory\bin\Debug\com.yww.singleOperator.dll
+F:\Project_git\CaculatorForFactory\com.yww.singleOperatorFactory\bin\Debug\com.yww.singleOperator.pdb
+F:\Project_git\CaculatorForFactory\com.yww.singleOperatorFactory\obj\Debug\com.yww.singleOperatorFactory.csprojAssemblyReference.cache
+F:\Project_git\CaculatorForFactory\com.yww.singleOperatorFactory\obj\Debug\com.yww.singleOperatorFactory.csproj.CoreCompileInputs.cache
+F:\Project_git\CaculatorForFactory\com.yww.singleOperatorFactory\obj\Debug\com.yww.singleOperatorFactory.csproj.CopyComplete
+F:\Project_git\CaculatorForFactory\com.yww.singleOperatorFactory\obj\Debug\com.yww.singleOperatorFactory.dll
+F:\Project_git\CaculatorForFactory\com.yww.singleOperatorFactory\obj\Debug\com.yww.singleOperatorFactory.pdb

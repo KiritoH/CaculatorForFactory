@@ -40,10 +40,6 @@ namespace com.yww.fe
                 textBox1.Text = "";
                 operatorStatus = false;
             }
-            //如果当前没有数，按零无效
-            if ("" == textBox1.Text) {
-                return;
-            }
             textBox1.Text += "0";
             //判断现在是对操作数一进行操作还是操作数二进行操作
             if (operator_pre == null)

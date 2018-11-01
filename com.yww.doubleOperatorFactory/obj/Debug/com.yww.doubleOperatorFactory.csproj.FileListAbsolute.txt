@@ -7,3 +7,12 @@ C:\Users\19335\Desktop\CaculatorForFactory\com.yww.doubleOperatorFactory\obj\Deb
 C:\Users\19335\Desktop\CaculatorForFactory\com.yww.doubleOperatorFactory\obj\Debug\com.yww.doubleOperatorFactory.csproj.CopyComplete
 C:\Users\19335\Desktop\CaculatorForFactory\com.yww.doubleOperatorFactory\obj\Debug\com.yww.doubleOperatorFactory.dll
 C:\Users\19335\Desktop\CaculatorForFactory\com.yww.doubleOperatorFactory\obj\Debug\com.yww.doubleOperatorFactory.pdb
+F:\Project_git\CaculatorForFactory\com.yww.doubleOperatorFactory\bin\Debug\com.yww.doubleOperatorFactory.dll
+F:\Project_git\CaculatorForFactory\com.yww.doubleOperatorFactory\bin\Debug\com.yww.doubleOperatorFactory.pdb
+F:\Project_git\CaculatorForFactory\com.yww.doubleOperatorFactory\bin\Debug\com.yww.doubleOperator.dll
+F:\Project_git\CaculatorForFactory\com.yww.doubleOperatorFactory\bin\Debug\com.yww.doubleOperator.pdb
+F:\Project_git\CaculatorForFactory\com.yww.doubleOperatorFactory\obj\Debug\com.yww.doubleOperatorFactory.csprojAssemblyReference.cache
+F:\Project_git\CaculatorForFactory\com.yww.doubleOperatorFactory\obj\Debug\com.yww.doubleOperatorFactory.csproj.CoreCompileInputs.cache
+F:\Project_git\CaculatorForFactory\com.yww.doubleOperatorFactory\obj\Debug\com.yww.doubleOperatorFactory.csproj.CopyComplete
+F:\Project_git\CaculatorForFactory\com.yww.doubleOperatorFactory\obj\Debug\com.yww.doubleOperatorFactory.dll
+F:\Project_git\CaculatorForFactory\com.yww.doubleOperatorFactory\obj\Debug\com.yww.doubleOperatorFactory.pdb
