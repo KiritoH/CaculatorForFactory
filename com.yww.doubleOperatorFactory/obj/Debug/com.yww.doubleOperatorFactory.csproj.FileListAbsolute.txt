@@ -1,0 +1,9 @@
+C:\Users\19335\Desktop\CaculatorForFactory\com.yww.doubleOperatorFactory\bin\Debug\com.yww.doubleOperatorFactory.dll
+C:\Users\19335\Desktop\CaculatorForFactory\com.yww.doubleOperatorFactory\bin\Debug\com.yww.doubleOperatorFactory.pdb
+C:\Users\19335\Desktop\CaculatorForFactory\com.yww.doubleOperatorFactory\bin\Debug\com.yww.doubleOperator.dll
+C:\Users\19335\Desktop\CaculatorForFactory\com.yww.doubleOperatorFactory\bin\Debug\com.yww.doubleOperator.pdb
+C:\Users\19335\Desktop\CaculatorForFactory\com.yww.doubleOperatorFactory\obj\Debug\com.yww.doubleOperatorFactory.csprojAssemblyReference.cache
+C:\Users\19335\Desktop\CaculatorForFactory\com.yww.doubleOperatorFactory\obj\Debug\com.yww.doubleOperatorFactory.csproj.CoreCompileInputs.cache
+C:\Users\19335\Desktop\CaculatorForFactory\com.yww.doubleOperatorFactory\obj\Debug\com.yww.doubleOperatorFactory.csproj.CopyComplete
+C:\Users\19335\Desktop\CaculatorForFactory\com.yww.doubleOperatorFactory\obj\Debug\com.yww.doubleOperatorFactory.dll
+C:\Users\19335\Desktop\CaculatorForFactory\com.yww.doubleOperatorFactory\obj\Debug\com.yww.doubleOperatorFactory.pdb

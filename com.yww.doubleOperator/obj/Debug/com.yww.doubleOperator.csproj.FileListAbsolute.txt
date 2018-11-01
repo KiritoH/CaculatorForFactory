@@ -1,0 +1,6 @@
+C:\Users\19335\Desktop\CaculatorForFactory\com.yww.doubleOperator\bin\Debug\com.yww.doubleOperator.dll
+C:\Users\19335\Desktop\CaculatorForFactory\com.yww.doubleOperator\bin\Debug\com.yww.doubleOperator.pdb
+C:\Users\19335\Desktop\CaculatorForFactory\com.yww.doubleOperator\obj\Debug\com.yww.doubleOperator.csprojAssemblyReference.cache
+C:\Users\19335\Desktop\CaculatorForFactory\com.yww.doubleOperator\obj\Debug\com.yww.doubleOperator.csproj.CoreCompileInputs.cache
+C:\Users\19335\Desktop\CaculatorForFactory\com.yww.doubleOperator\obj\Debug\com.yww.doubleOperator.dll
+C:\Users\19335\Desktop\CaculatorForFactory\com.yww.doubleOperator\obj\Debug\com.yww.doubleOperator.pdb
